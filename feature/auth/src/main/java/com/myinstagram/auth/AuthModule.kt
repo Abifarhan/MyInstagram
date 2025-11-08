@@ -1,9 +1,10 @@
 package com.myinstagram.auth
 
+import com.google.firebase.auth.FirebaseAuth
 import dagger.Module
+import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
-import dagger.Provides
 import javax.inject.Singleton
 
 @Module
@@ -11,6 +12,9 @@ import javax.inject.Singleton
 object AuthModule {
     @Provides
     @Singleton
+    fun provideFirebaseAuth(): FirebaseAuth = FirebaseAuth.getInstance()
+
+    @Provides
+    @Singleton
     fun provideAuthViewModel(): AuthViewModel = AuthViewModel()
 }
-

@@ -4,35 +4,31 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
 import dagger.hilt.android.lifecycle.HiltViewModel
-import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import javax.inject.Inject
+import com.google.firebase.auth.FirebaseAuth
+import kotlinx.coroutines.tasks.await
 
 @HiltViewModel
-class AuthViewModel @Inject constructor() : ViewModel() {
+class AuthViewModel @Inject constructor(
+    private val firebaseAuth: FirebaseAuth
+) : ViewModel() {
     val loginState = MutableLiveData<Boolean>()
     val errorMessage = MutableLiveData<String?>()
     val isLoading = MutableLiveData<Boolean>()
-
-    private val mockUsers = mutableMapOf(
-        "user" to "password",
-        "test@test.com" to "test123"
-    )
 
     fun login(username: String, password: String) {
         if (!validateInput(username, password)) return
 
         viewModelScope.launch {
             isLoading.value = true
-            // Simulate network delay
-            delay(1000)
-
-            if (mockUsers[username] == password) {
+            try {
+                firebaseAuth.signInWithEmailAndPassword(username, password).await()
                 loginState.value = true
                 errorMessage.value = null
-            } else {
+            } catch (e: Exception) {
                 loginState.value = false
-                errorMessage.value = "Invalid credentials"
+                errorMessage.value = e.message ?: "Login failed"
             }
             isLoading.value = false
         }
@@ -43,16 +39,13 @@ class AuthViewModel @Inject constructor() : ViewModel() {
 
         viewModelScope.launch {
             isLoading.value = true
-            // Simulate network delay
-            delay(1000)
-
-            if (mockUsers.containsKey(username)) {
-                errorMessage.value = "Username already exists"
-                loginState.value = false
-            } else {
-                mockUsers[username] = password
+            try {
+                firebaseAuth.createUserWithEmailAndPassword(username, password).await()
                 loginState.value = true
                 errorMessage.value = null
+            } catch (e: Exception) {
+                loginState.value = false
+                errorMessage.value = e.message ?: "Registration failed"
             }
             isLoading.value = false
         }
@@ -70,10 +63,12 @@ class AuthViewModel @Inject constructor() : ViewModel() {
 
         viewModelScope.launch {
             isLoading.value = true
-            // Simulate network delay
-            delay(1000)
-
-            errorMessage.value = "Password reset link sent to $email"
+            try {
+                firebaseAuth.sendPasswordResetEmail(email).await()
+                errorMessage.value = "Password reset link sent to $email"
+            } catch (e: Exception) {
+                errorMessage.value = e.message ?: "Failed to send reset email"
+            }
             isLoading.value = false
         }
     }
