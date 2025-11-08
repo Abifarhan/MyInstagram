@@ -3,6 +3,7 @@ plugins {
     alias(libs.plugins.jetbrains.kotlin.android)
     alias(libs.plugins.kotlin.ksp)
     alias(libs.plugins.hilt.android)
+    id("com.google.gms.google-services") // Add Google Services plugin
 }
 
 android {
@@ -114,6 +115,13 @@ dependencies {
 
     // Logging
     implementation(libs.timber)
+
+    // Firebase BOM
+    implementation(platform("com.google.firebase:firebase-bom:33.1.0"))
+    // Firebase Auth
+    implementation("com.google.firebase:firebase-auth")
+    // Firebase Analytics (optional)
+    implementation("com.google.firebase:firebase-analytics")
 
     // Debug
     debugImplementation(libs.leakcanary.android)
