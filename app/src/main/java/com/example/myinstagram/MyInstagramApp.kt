@@ -1,0 +1,21 @@
+package com.example.myinstagram
+
+import android.app.Application
+import com.google.firebase.FirebaseApp
+import dagger.hilt.android.HiltAndroidApp
+import timber.log.Timber
+
+@HiltAndroidApp
+class MyInstagramApp : Application() {
+    override fun onCreate() {
+        super.onCreate()
+
+        // Initialize Firebase
+        FirebaseApp.initializeApp(this)
+
+        // Initialize Timber for logging
+        if (BuildConfig.DEBUG) {
+            Timber.plant(Timber.DebugTree())
+        }
+    }
+}

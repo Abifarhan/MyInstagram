@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest3568623858580421872.xml:2:13-83
-INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest3568623858580421872.xml:2:13-83
+ADDED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7162745180734301682.xml:2:13-83
+INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7162745180734301682.xml:2:13-83
 	package
-		INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest3568623858580421872.xml
+		INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7162745180734301682.xml
 	xmlns:android
-		ADDED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest3568623858580421872.xml:2:23-81
+		ADDED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7162745180734301682.xml:2:23-81
 uses-sdk
-INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest3568623858580421872.xml reason: use-sdk injection requested
-INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest3568623858580421872.xml
-INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest3568623858580421872.xml
+INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7162745180734301682.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7162745180734301682.xml
+INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7162745180734301682.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest3568623858580421872.xml
+		INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7162745180734301682.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest3568623858580421872.xml
+		INJECTED from C:\Users\HP OMEN\AndroidStudioProjects\MyInstagram\feature\auth\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7162745180734301682.xml

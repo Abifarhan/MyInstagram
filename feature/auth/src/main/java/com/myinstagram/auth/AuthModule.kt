@@ -13,8 +13,4 @@ object AuthModule {
     @Provides
     @Singleton
     fun provideFirebaseAuth(): FirebaseAuth = FirebaseAuth.getInstance()
-
-    @Provides
-    @Singleton
-    fun provideAuthViewModel(): AuthViewModel = AuthViewModel()
 }
