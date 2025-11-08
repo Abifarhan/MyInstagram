@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$USER_HOME$/.gradle/gradle.properties">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$USER_HOME$/.gradle/gradle.properties" />
+              <option name="updatedContent" value="# Global Gradle properties for this user&#10;org.gradle.jvmargs=-Xmx2048m -Dfile.encoding=UTF-8&#10;org.gradle.parallel=true&#10;org.gradle.caching=true&#10;org.gradle.daemon=true" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
