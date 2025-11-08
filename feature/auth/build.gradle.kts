@@ -39,6 +39,11 @@ dependencies {
     implementation(libs.hilt.navigation.compose)
     ksp(libs.hilt.compiler)
 
+    // Jetpack Compose UI
+    implementation("androidx.compose.ui:ui:1.5.0")
+    implementation("androidx.compose.material3:material3:1.1.0")
+    implementation("androidx.compose.runtime:runtime-livedata:1.5.0")
+
     // Testing
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.ui.test.junit4)
