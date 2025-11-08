@@ -2,8 +2,11 @@ package com.myinstagram.auth
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.MutableLiveData
+import dagger.hilt.android.lifecycle.HiltViewModel
+import javax.inject.Inject
 
-class AuthViewModel : ViewModel() {
+@HiltViewModel
+class AuthViewModel @Inject constructor() : ViewModel() {
     val loginState = MutableLiveData<Boolean>()
     val errorMessage = MutableLiveData<String?>()
 
@@ -29,4 +32,3 @@ class AuthViewModel : ViewModel() {
         errorMessage.value = "Password reset link sent to $email"
     }
 }
-
