@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.feature.auth-release-6:/layout/browser_actions_context_menu_page.xml",
+        "source": "com.example.feature.auth-browser-1.4.0-10:/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "com.example.feature.auth-release-6:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.example.feature.auth-core-1.13.1-49:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.example.feature.auth-release-6:/layout/custom_dialog.xml",
+        "source": "com.example.feature.auth-core-1.13.1-49:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.example.feature.auth-release-6:/layout/ime_base_split_test_activity.xml",
+        "source": "com.example.feature.auth-core-1.13.1-49:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.example.feature.auth-release-6:/layout/notification_template_part_chronometer.xml",
+        "source": "com.example.feature.auth-core-1.13.1-49:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.example.feature.auth-release-6:/layout/notification_template_part_time.xml",
+        "source": "com.example.feature.auth-core-1.13.1-49:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.example.feature.auth-release-6:/layout/browser_actions_context_menu_row.xml",
+        "source": "com.example.feature.auth-browser-1.4.0-10:/layout/browser_actions_context_menu_row.xml"
+    }
+]

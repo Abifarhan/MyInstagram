@@ -3,7 +3,7 @@ package com.myinstagram.auth
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
-import androidx.compose.runtime.livedata.observeAsState
+import androidx.compose.runtime.collectAsState
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.input.PasswordVisualTransformation
@@ -13,9 +13,9 @@ import androidx.compose.ui.unit.dp
 fun RegisterScreen(viewModel: AuthViewModel, onRegisterSuccess: () -> Unit, onNavigateToLogin: () -> Unit) {
     var username by remember { mutableStateOf("") }
     var password by remember { mutableStateOf("") }
-    val loginState by viewModel.loginState.observeAsState()
-    val errorMessage by viewModel.errorMessage.observeAsState()
-    val isLoading by viewModel.isLoading.observeAsState(false)
+    val loginState by viewModel.loginState.collectAsState()
+    val errorMessage by viewModel.errorMessage.collectAsState()
+    val isLoading by viewModel.isLoading.collectAsState(false)
 
     LaunchedEffect(loginState) {
         if (loginState == true) {
@@ -98,4 +98,3 @@ fun RegisterScreen(viewModel: AuthViewModel, onRegisterSuccess: () -> Unit, onNa
         }
     }
 }
-

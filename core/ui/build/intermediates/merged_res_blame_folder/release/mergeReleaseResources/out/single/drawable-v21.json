@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.core.ui-release-5:/drawable-v21/notification_action_background.xml",
+        "source": "com.example.core.ui-core-1.13.1-45:/drawable-v21/notification_action_background.xml"
+    }
+]

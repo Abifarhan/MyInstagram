@@ -1,0 +1,378 @@
+<libraries>
+  <library
+      name=":@@:core:common::debug"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\7a32f5bea041830712898faac3448315\transformed\out\jars\classes.jar;C:\Users\HP OMEN\.gradle\caches\8.9\transforms\7a32f5bea041830712898faac3448315\transformed\out\jars\libs\R.jar"
+      resolved="MyInstagram.core:common:unspecified"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\7a32f5bea041830712898faac3448315\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.dagger:hilt-android:2.48.1@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\45b87eb6fc256af734e8d5e3cc3f86ca\transformed\hilt-android-2.48.1\jars\classes.jar"
+      resolved="com.google.dagger:hilt-android:2.48.1"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\45b87eb6fc256af734e8d5e3cc3f86ca\transformed\hilt-android-2.48.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.fragment:fragment:1.5.1@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\5842dbf5b3bb141b985d385d96060d57\transformed\fragment-1.5.1\jars\classes.jar"
+      resolved="androidx.fragment:fragment:1.5.1"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\5842dbf5b3bb141b985d385d96060d57\transformed\fragment-1.5.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.activity:activity:1.5.1@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\8df7f9ff3344b2a033de70d033e50328\transformed\activity-1.5.1\jars\classes.jar"
+      resolved="androidx.activity:activity:1.5.1"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\8df7f9ff3344b2a033de70d033e50328\transformed\activity-1.5.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.loader:loader:1.0.0@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\ca842305e7639ea8019d660069c7154d\transformed\loader-1.0.0\jars\classes.jar"
+      resolved="androidx.loader:loader:1.0.0"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\ca842305e7639ea8019d660069c7154d\transformed\loader-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.viewpager:viewpager:1.0.0@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\69680b09ecdc6aaec40834547b344dde\transformed\viewpager-1.0.0\jars\classes.jar"
+      resolved="androidx.viewpager:viewpager:1.0.0"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\69680b09ecdc6aaec40834547b344dde\transformed\viewpager-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.customview:customview:1.0.0@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\6bbdb75b1024ced745ab788554099bf0\transformed\customview-1.0.0\jars\classes.jar"
+      resolved="androidx.customview:customview:1.0.0"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\6bbdb75b1024ced745ab788554099bf0\transformed\customview-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.core:core:1.13.1@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\9a4a8cb9ded8e5414fffba35857cf869\transformed\core-1.13.1\jars\classes.jar"
+      resolved="androidx.core:core:1.13.1"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\9a4a8cb9ded8e5414fffba35857cf869\transformed\core-1.13.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-livedata:2.6.2@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\1193fc8f9a771994e6fbc529e806113b\transformed\lifecycle-livedata-2.6.2\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-livedata:2.6.2"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\1193fc8f9a771994e6fbc529e806113b\transformed\lifecycle-livedata-2.6.2"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-livedata-core:2.6.2@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\d9eec7d3257e76d36e65f0575587c836\transformed\lifecycle-livedata-core-2.6.2\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-livedata-core:2.6.2"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\d9eec7d3257e76d36e65f0575587c836\transformed\lifecycle-livedata-core-2.6.2"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-runtime:2.6.2@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\9484b09d7f2607022a57d269ff468d3b\transformed\lifecycle-runtime-2.6.2\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-runtime:2.6.2"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\9484b09d7f2607022a57d269ff468d3b\transformed\lifecycle-runtime-2.6.2"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-viewmodel:2.6.2@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\5fd577cce03a333dcb60bae5ce367c79\transformed\lifecycle-viewmodel-2.6.2\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-viewmodel:2.6.2"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\5fd577cce03a333dcb60bae5ce367c79\transformed\lifecycle-viewmodel-2.6.2"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-common:2.6.2@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\androidx.lifecycle\lifecycle-common\2.6.2\10f354fdb64868baecd67128560c5a0d6312c495\lifecycle-common-2.6.2.jar"
+      resolved="androidx.lifecycle:lifecycle-common:2.6.2"/>
+  <library
+      name="androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\ee183930d94b455af68843426cd131b4\transformed\lifecycle-viewmodel-savedstate-2.6.2\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\ee183930d94b455af68843426cd131b4\transformed\lifecycle-viewmodel-savedstate-2.6.2"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.core:core-ktx:1.13.1@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\43bb0c0e6d5d8b37ed2aa9ed9dc63446\transformed\core-ktx-1.13.1\jars\classes.jar"
+      resolved="androidx.core:core-ktx:1.13.1"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\43bb0c0e6d5d8b37ed2aa9ed9dc63446\transformed\core-ktx-1.13.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.jakewharton.timber:timber:5.0.1@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\a190304bedccd33e1b9e1b5f8123aa03\transformed\timber-5.0.1\jars\classes.jar"
+      resolved="com.jakewharton.timber:timber:5.0.1"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\a190304bedccd33e1b9e1b5f8123aa03\transformed\timber-5.0.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.savedstate:savedstate:1.2.1@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\f34484dc4d5c1785df9f6a8d8e93382b\transformed\savedstate-1.2.1\jars\classes.jar"
+      resolved="androidx.savedstate:savedstate:1.2.1"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\f34484dc4d5c1785df9f6a8d8e93382b\transformed\savedstate-1.2.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.7.3@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlinx\kotlinx-coroutines-core-jvm\1.7.3\2b09627576f0989a436a00a4a54b55fa5026fb86\kotlinx-coroutines-core-jvm-1.7.3.jar"
+      resolved="org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.7.3"/>
+  <library
+      name="org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlinx\kotlinx-coroutines-android\1.7.3\38d9cad3a0b03a10453b56577984bdeb48edeed5\kotlinx-coroutines-android-1.7.3.jar"
+      resolved="org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk8\1.8.20\73576ddf378c5b4f1f6b449fe6b119b8183fc078\kotlin-stdlib-jdk8-1.8.20.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20"/>
+  <library
+      name="androidx.versionedparcelable:versionedparcelable:1.1.1@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\fb54a8c8069797792292ea1ea19ac16a\transformed\versionedparcelable-1.1.1\jars\classes.jar"
+      resolved="androidx.versionedparcelable:versionedparcelable:1.1.1"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\fb54a8c8069797792292ea1ea19ac16a\transformed\versionedparcelable-1.1.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.collection:collection:1.1.0@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\androidx.collection\collection\1.1.0\1f27220b47669781457de0d600849a5de0e89909\collection-1.1.0.jar"
+      resolved="androidx.collection:collection:1.1.0"/>
+  <library
+      name="androidx.arch.core:core-runtime:2.2.0@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\47aca7edd767fa58a4752e16be200164\transformed\core-runtime-2.2.0\jars\classes.jar"
+      resolved="androidx.arch.core:core-runtime:2.2.0"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\47aca7edd767fa58a4752e16be200164\transformed\core-runtime-2.2.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.arch.core:core-common:2.2.0@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\androidx.arch.core\core-common\2.2.0\5e1b8b81dfd5f52c56a8d53b18ca759c19a301f3\core-common-2.2.0.jar"
+      resolved="androidx.arch.core:core-common:2.2.0"/>
+  <library
+      name="androidx.annotation:annotation-jvm:1.6.0@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation-jvm\1.6.0\a7257339a052df0f91433cf9651231bbb802b502\annotation-jvm-1.6.0.jar"
+      resolved="androidx.annotation:annotation-jvm:1.6.0"/>
+  <library
+      name="androidx.annotation:annotation-experimental:1.4.0@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\13f091aeaafe1b7acddf445de004c5ef\transformed\annotation-experimental-1.4.0\jars\classes.jar"
+      resolved="androidx.annotation:annotation-experimental:1.4.0"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\13f091aeaafe1b7acddf445de004c5ef\transformed\annotation-experimental-1.4.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.8.20\3aa51faf20aae8b31e1a4bc54f8370673d7b7df4\kotlin-stdlib-jdk7-1.8.20.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.9.25@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.25\f700a2f2b8f0d6d0fde48f56d894dc722fb029d7\kotlin-stdlib-1.9.25.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.9.25"/>
+  <library
+      name="org.jetbrains:annotations:23.0.0@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\23.0.0\8cc20c07506ec18e0834947b84a864bfc094484e\annotations-23.0.0.jar"
+      resolved="org.jetbrains:annotations:23.0.0"/>
+  <library
+      name="com.google.dagger:hilt-core:2.48.1@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\com.google.dagger\hilt-core\2.48.1\f28429fcfabf0719b76c50709bcfd64106e7c9bf\hilt-core-2.48.1.jar"
+      resolved="com.google.dagger:hilt-core:2.48.1"/>
+  <library
+      name="com.google.dagger:dagger:2.48.1@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.48.1\f3e10ae777850a8110b7ec583df150065ff9bc2b\dagger-2.48.1.jar"
+      resolved="com.google.dagger:dagger:2.48.1"/>
+  <library
+      name="javax.inject:javax.inject:1@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+      resolved="javax.inject:javax.inject:1"/>
+  <library
+      name="com.google.dagger:dagger-lint-aar:2.48.1@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\8cf31bdf8624589396996692a08d0e83\transformed\dagger-lint-aar-2.48.1\jars\classes.jar"
+      resolved="com.google.dagger:dagger-lint-aar:2.48.1"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\8cf31bdf8624589396996692a08d0e83\transformed\dagger-lint-aar-2.48.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.code.findbugs:jsr305:3.0.2@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar"
+      resolved="com.google.code.findbugs:jsr305:3.0.2"/>
+  <library
+      name="androidx.interpolator:interpolator:1.0.0@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\80fc128e8223653646201bdfa339a5b7\transformed\interpolator-1.0.0\jars\classes.jar"
+      resolved="androidx.interpolator:interpolator:1.0.0"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\80fc128e8223653646201bdfa339a5b7\transformed\interpolator-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.profileinstaller:profileinstaller:1.3.0@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\7ac72a75ebca00b3b3d4d4a1a141a4e8\transformed\profileinstaller-1.3.0\jars\classes.jar"
+      resolved="androidx.profileinstaller:profileinstaller:1.3.0"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\7ac72a75ebca00b3b3d4d4a1a141a4e8\transformed\profileinstaller-1.3.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.startup:startup-runtime:1.1.1@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\0d840bac27a901e5c76395e333b33a3f\transformed\startup-runtime-1.1.1\jars\classes.jar"
+      resolved="androidx.startup:startup-runtime:1.1.1"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\0d840bac27a901e5c76395e333b33a3f\transformed\startup-runtime-1.1.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.tracing:tracing:1.0.0@aar"
+      jars="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\e57ae7eaf5e161ea84f84187c7e91055\transformed\tracing-1.0.0\jars\classes.jar"
+      resolved="androidx.tracing:tracing:1.0.0"
+      folder="C:\Users\HP OMEN\.gradle\caches\8.9\transforms\e57ae7eaf5e161ea84f84187c7e91055\transformed\tracing-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.concurrent:concurrent-futures:1.1.0@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\androidx.concurrent\concurrent-futures\1.1.0\50b7fb98350d5f42a4e49704b03278542293ba48\concurrent-futures-1.1.0.jar"
+      resolved="androidx.concurrent:concurrent-futures:1.1.0"/>
+  <library
+      name="com.google.guava:listenablefuture:1.0@jar"
+      jars="C:\Users\HP OMEN\.gradle\caches\modules-2\files-2.1\com.google.guava\listenablefuture\1.0\c949a840a6acbc5268d088e47b04177bf90b3cad\listenablefuture-1.0.jar"
+      resolved="com.google.guava:listenablefuture:1.0"/>
+</libraries>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.feature.feed-release-6:/drawable/abc_vector_test.xml",
+        "source": "com.example.feature.feed-appcompat-resources-1.6.1-13:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.example.feature.feed-release-6:/drawable/notification_icon_background.xml",
+        "source": "com.example.feature.feed-core-1.13.1-46:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.example.feature.feed-release-6:/drawable/notification_tile_bg.xml",
+        "source": "com.example.feature.feed-core-1.13.1-46:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.example.feature.feed-release-6:/drawable/notification_bg.xml",
+        "source": "com.example.feature.feed-core-1.13.1-46:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.example.feature.feed-release-6:/drawable/notification_bg_low.xml",
+        "source": "com.example.feature.feed-core-1.13.1-46:/drawable/notification_bg_low.xml"
+    }
+]

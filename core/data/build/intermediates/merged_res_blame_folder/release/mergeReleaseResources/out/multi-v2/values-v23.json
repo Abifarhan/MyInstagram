@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.core.data-mergeReleaseResources-2:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP OMEN\\.gradle\\caches\\8.9\\transforms\\46f4852e2c55eda2226d1f5097e5b105\\transformed\\work-runtime-2.9.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.core.data-release-4:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP OMEN\\.gradle\\caches\\8.9\\transforms\\46f4852e2c55eda2226d1f5097e5b105\\transformed\\work-runtime-2.9.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

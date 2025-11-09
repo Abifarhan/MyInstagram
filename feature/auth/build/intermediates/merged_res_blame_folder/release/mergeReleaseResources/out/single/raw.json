@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.feature.auth-release-6:/raw/firebase_common_keep.xml",
+        "source": "com.example.feature.auth-firebase-common-20.4.2-60:/raw/firebase_common_keep.xml"
+    }
+]

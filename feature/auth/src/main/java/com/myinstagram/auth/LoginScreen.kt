@@ -3,7 +3,6 @@ package com.myinstagram.auth
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
-import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.input.PasswordVisualTransformation
@@ -13,9 +12,9 @@ import androidx.compose.ui.unit.dp
 fun LoginScreen(viewModel: AuthViewModel, onLoginSuccess: () -> Unit, onNavigateToRegister: () -> Unit, onNavigateToReset: () -> Unit) {
     var username by remember { mutableStateOf("") }
     var password by remember { mutableStateOf("") }
-    val loginState by viewModel.loginState.observeAsState()
-    val errorMessage by viewModel.errorMessage.observeAsState()
-    val isLoading by viewModel.isLoading.observeAsState(false)
+    val loginState by viewModel.loginState.collectAsState()
+    val errorMessage by viewModel.errorMessage.collectAsState()
+    val isLoading by viewModel.isLoading.collectAsState(false)
 
     LaunchedEffect(loginState) {
         if (loginState == true) {
@@ -44,7 +43,7 @@ fun LoginScreen(viewModel: AuthViewModel, onLoginSuccess: () -> Unit, onNavigate
                 },
                 label = { Text("Username or Email") },
                 modifier = Modifier.fillMaxWidth(),
-                enabled = !isLoading
+                enabled = isLoading.not()
             )
 
             Spacer(modifier = Modifier.height(8.dp))
@@ -58,7 +57,7 @@ fun LoginScreen(viewModel: AuthViewModel, onLoginSuccess: () -> Unit, onNavigate
                 label = { Text("Password") },
                 visualTransformation = PasswordVisualTransformation(),
                 modifier = Modifier.fillMaxWidth(),
-                enabled = !isLoading
+                enabled = isLoading.not()
             )
 
             Spacer(modifier = Modifier.height(16.dp))
@@ -66,7 +65,7 @@ fun LoginScreen(viewModel: AuthViewModel, onLoginSuccess: () -> Unit, onNavigate
             Button(
                 onClick = { viewModel.login(username, password) },
                 modifier = Modifier.fillMaxWidth(),
-                enabled = !isLoading
+                enabled = isLoading.not()
             ) {
                 if (isLoading) {
                     CircularProgressIndicator(
@@ -82,22 +81,22 @@ fun LoginScreen(viewModel: AuthViewModel, onLoginSuccess: () -> Unit, onNavigate
 
             TextButton(
                 onClick = onNavigateToRegister,
-                enabled = !isLoading
+                enabled = isLoading.not()
             ) {
                 Text("Don't have an account? Sign up")
             }
 
             TextButton(
                 onClick = onNavigateToReset,
-                enabled = !isLoading
+                enabled = isLoading.not()
             ) {
                 Text("Forgot Password?")
             }
 
-            errorMessage?.let {
+            if (errorMessage != null) {
                 Spacer(modifier = Modifier.height(8.dp))
                 Text(
-                    text = it,
+                    text = errorMessage!!,
                     color = MaterialTheme.colorScheme.error,
                     style = MaterialTheme.typography.bodyMedium
                 )

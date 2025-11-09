@@ -1,0 +1,21 @@
+com.example.core.common-pngs-0 C:\MyInstagram\core\common\build\generated\res\pngs\release
+com.example.core.common-resValues-1 C:\MyInstagram\core\common\build\generated\res\resValues\release
+com.example.core.common-mergeReleaseResources-2 C:\MyInstagram\core\common\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.core.common-mergeReleaseResources-3 C:\MyInstagram\core\common\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.core.common-release-4 C:\MyInstagram\core\common\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.core.common-main-5 C:\MyInstagram\core\common\src\main\res
+com.example.core.common-release-6 C:\MyInstagram\core\common\src\release\res
+com.example.core.common-startup-runtime-1.1.1-7 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\0d840bac27a901e5c76395e333b33a3f\transformed\startup-runtime-1.1.1\res
+com.example.core.common-lifecycle-livedata-2.6.2-8 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\1193fc8f9a771994e6fbc529e806113b\transformed\lifecycle-livedata-2.6.2\res
+com.example.core.common-annotation-experimental-1.4.0-9 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\13f091aeaafe1b7acddf445de004c5ef\transformed\annotation-experimental-1.4.0\res
+com.example.core.common-core-ktx-1.13.1-10 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\43bb0c0e6d5d8b37ed2aa9ed9dc63446\transformed\core-ktx-1.13.1\res
+com.example.core.common-core-runtime-2.2.0-11 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\47aca7edd767fa58a4752e16be200164\transformed\core-runtime-2.2.0\res
+com.example.core.common-fragment-1.5.1-12 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\5842dbf5b3bb141b985d385d96060d57\transformed\fragment-1.5.1\res
+com.example.core.common-lifecycle-viewmodel-2.6.2-13 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\5fd577cce03a333dcb60bae5ce367c79\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.core.common-profileinstaller-1.3.0-14 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\7ac72a75ebca00b3b3d4d4a1a141a4e8\transformed\profileinstaller-1.3.0\res
+com.example.core.common-activity-1.5.1-15 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\8df7f9ff3344b2a033de70d033e50328\transformed\activity-1.5.1\res
+com.example.core.common-lifecycle-runtime-2.6.2-16 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\9484b09d7f2607022a57d269ff468d3b\transformed\lifecycle-runtime-2.6.2\res
+com.example.core.common-core-1.13.1-17 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\9a4a8cb9ded8e5414fffba35857cf869\transformed\core-1.13.1\res
+com.example.core.common-lifecycle-livedata-core-2.6.2-18 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\d9eec7d3257e76d36e65f0575587c836\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.core.common-lifecycle-viewmodel-savedstate-2.6.2-19 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\ee183930d94b455af68843426cd131b4\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.core.common-savedstate-1.2.1-20 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\f34484dc4d5c1785df9f6a8d8e93382b\transformed\savedstate-1.2.1\res

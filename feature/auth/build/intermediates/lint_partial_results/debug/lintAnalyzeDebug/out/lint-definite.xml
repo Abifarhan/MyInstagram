@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.3" type="incidents">
+
+    <incident
+        id="OldTargetApi"
+        severity="warning"
+        message="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the `android.os.Build.VERSION_CODES` javadoc for details.">
+        <fix-replace
+            description="Update targetSdkVersion to 36"
+            oldString="35"
+            replacement="36"
+            priority="0"/>
+        <location
+            file="${:feature:auth*projectDir}/build.gradle.kts"
+            line="14"
+            column="9"
+            startOffset="279"
+            endLine="14"
+            endColumn="23"
+            endOffset="293"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose.ui:ui than 1.5.0 is available: 1.9.4">
+        <fix-replace
+            description="Change to 1.9.4"
+            family="Update versions"
+            oldString="1.5.0"
+            replacement="1.9.4"
+            priority="0"/>
+        <location
+            file="${:feature:auth*projectDir}/build.gradle.kts"
+            line="43"
+            column="20"
+            startOffset="950"
+            endLine="43"
+            endColumn="50"
+            endOffset="980"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose.material3:material3 than 1.1.0 is available: 1.4.0">
+        <fix-replace
+            description="Change to 1.4.0"
+            family="Update versions"
+            oldString="1.1.0"
+            replacement="1.4.0"
+            priority="0"/>
+        <location
+            file="${:feature:auth*projectDir}/build.gradle.kts"
+            line="44"
+            column="20"
+            startOffset="1001"
+            endLine="44"
+            endColumn="64"
+            endOffset="1045"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose.runtime:runtime-livedata than 1.5.0 is available: 1.9.4">
+        <fix-replace
+            description="Change to 1.9.4"
+            family="Update versions"
+            oldString="1.5.0"
+            replacement="1.9.4"
+            priority="0"/>
+        <location
+            file="${:feature:auth*projectDir}/build.gradle.kts"
+            line="45"
+            column="20"
+            startOffset="1066"
+            endLine="45"
+            endColumn="69"
+            endOffset="1115"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of com.google.firebase:firebase-bom than 32.7.0 is available: 34.5.0">
+        <fix-replace
+            description="Change to 34.5.0"
+            family="Update versions"
+            oldString="32.7.0"
+            replacement="34.5.0"
+            priority="0"/>
+        <location
+            file="${:feature:auth*projectDir}/build.gradle.kts"
+            line="48"
+            column="20"
+            startOffset="1153"
+            endLine="48"
+            endColumn="71"
+            endOffset="1204"/>
+    </incident>
+
+</incidents>

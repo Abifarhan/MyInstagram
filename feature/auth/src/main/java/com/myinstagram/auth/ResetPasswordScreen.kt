@@ -3,7 +3,6 @@ package com.myinstagram.auth
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
-import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
@@ -11,8 +10,8 @@ import androidx.compose.ui.unit.dp
 @Composable
 fun ResetPasswordScreen(viewModel: AuthViewModel, onNavigateToLogin: () -> Unit) {
     var email by remember { mutableStateOf("") }
-    val errorMessage by viewModel.errorMessage.observeAsState()
-    val isLoading by viewModel.isLoading.observeAsState(false)
+    val errorMessage by viewModel.errorMessage.collectAsState()
+    val isLoading by viewModel.isLoading.collectAsState()
 
     Box(modifier = Modifier.fillMaxSize()) {
         Column(

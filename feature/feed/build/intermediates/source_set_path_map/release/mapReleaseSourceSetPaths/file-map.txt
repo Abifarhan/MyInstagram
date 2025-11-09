@@ -1,0 +1,65 @@
+com.example.feature.feed-release-0 C:\MyInstagram\core\common\build\intermediates\packaged_res\release\packageReleaseResources
+com.example.feature.feed-release-1 C:\MyInstagram\core\domain\build\intermediates\packaged_res\release\packageReleaseResources
+com.example.feature.feed-release-2 C:\MyInstagram\core\ui\build\intermediates\packaged_res\release\packageReleaseResources
+com.example.feature.feed-pngs-3 C:\MyInstagram\feature\feed\build\generated\res\pngs\release
+com.example.feature.feed-resValues-4 C:\MyInstagram\feature\feed\build\generated\res\resValues\release
+com.example.feature.feed-mergeReleaseResources-5 C:\MyInstagram\feature\feed\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.feature.feed-mergeReleaseResources-6 C:\MyInstagram\feature\feed\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.feature.feed-release-7 C:\MyInstagram\feature\feed\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.feature.feed-main-8 C:\MyInstagram\feature\feed\src\main\res
+com.example.feature.feed-release-9 C:\MyInstagram\feature\feed\src\release\res
+com.example.feature.feed-lifecycle-viewmodel-ktx-2.8.7-10 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\0090e865581797d43f358e24484cf629\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.feature.feed-ui-geometry-release-11 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\01b0cf6b0248d3b1f6f7fccc8ade3cd8\transformed\ui-geometry-release\res
+com.example.feature.feed-material3-release-12 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\0234872ac63538ccbdfd1a5a1f86e5bf\transformed\material3-release\res
+com.example.feature.feed-startup-runtime-1.1.1-13 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\0d840bac27a901e5c76395e333b33a3f\transformed\startup-runtime-1.1.1\res
+com.example.feature.feed-appcompat-resources-1.6.1-14 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\0e9efcd1c95c1cecbfc3603ce46168d0\transformed\appcompat-resources-1.6.1\res
+com.example.feature.feed-paging-compose-3.2.1-15 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\15dd641cdfe8d915f83adf911ce65765\transformed\paging-compose-3.2.1\res
+com.example.feature.feed-customview-poolingcontainer-1.0.0-16 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\15ea5a1abed9024a7ba580852293327c\transformed\customview-poolingcontainer-1.0.0\res
+com.example.feature.feed-navigation-runtime-2.8.3-17 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\170c836a3b1e4b8f8279f8ba191e6749\transformed\navigation-runtime-2.8.3\res
+com.example.feature.feed-lifecycle-livedata-core-2.8.7-18 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\19fecfb15daee84bac21799fefac7060\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.feature.feed-lifecycle-livedata-core-ktx-2.8.7-19 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\1eab81381b055b5de47ccfeb2dbf6d44\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.example.feature.feed-hilt-navigation-compose-1.1.0-20 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\2036cf8ea42be9bfec2d70b90a4cd6cd\transformed\hilt-navigation-compose-1.1.0\res
+com.example.feature.feed-lifecycle-viewmodel-compose-release-21 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\232ff8dd9f93d6d06f138770fedede72\transformed\lifecycle-viewmodel-compose-release\res
+com.example.feature.feed-hilt-navigation-1.1.0-22 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\23c1e23d4fc48f739491b818ee86e677\transformed\hilt-navigation-1.1.0\res
+com.example.feature.feed-recyclerview-1.2.1-23 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\2931fb22be6b2e683f18ecf0435bc9b8\transformed\recyclerview-1.2.1\res
+com.example.feature.feed-navigation-common-2.8.3-24 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\299f50e5a03fbfdab0cad5208483b5dc\transformed\navigation-common-2.8.3\res
+com.example.feature.feed-graphics-path-1.0.1-25 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\2f7449a0b8697057a7dd1234bcb4a695\transformed\graphics-path-1.0.1\res
+com.example.feature.feed-navigation-compose-2.8.3-26 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\330477249d54b8baf55616fc56cb72d1\transformed\navigation-compose-2.8.3\res
+com.example.feature.feed-lifecycle-runtime-compose-release-27 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\39475f63634b5d97f9ec0cb0996107f4\transformed\lifecycle-runtime-compose-release\res
+com.example.feature.feed-runtime-saveable-release-28 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\3aeb0977c8b01c4193f08abd45a19622\transformed\runtime-saveable-release\res
+com.example.feature.feed-activity-ktx-1.8.2-29 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\3ce2ea44d327b56684eb5617130dcfd8\transformed\activity-ktx-1.8.2\res
+com.example.feature.feed-ui-graphics-release-30 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\3f9068224314a02b59e03204223fd845\transformed\ui-graphics-release\res
+com.example.feature.feed-lifecycle-livedata-2.8.7-31 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\42bc73d8393b35a57f23cf2457daf08d\transformed\lifecycle-livedata-2.8.7\res
+com.example.feature.feed-core-ktx-1.13.1-32 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\43bb0c0e6d5d8b37ed2aa9ed9dc63446\transformed\core-ktx-1.13.1\res
+com.example.feature.feed-activity-1.8.2-33 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\43e688ebda8d16d959d418d1f0894033\transformed\activity-1.8.2\res
+com.example.feature.feed-core-runtime-2.2.0-34 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\47aca7edd767fa58a4752e16be200164\transformed\core-runtime-2.2.0\res
+com.example.feature.feed-fragment-1.5.1-35 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\5842dbf5b3bb141b985d385d96060d57\transformed\fragment-1.5.1\res
+com.example.feature.feed-lifecycle-runtime-ktx-release-36 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\587e908fa6e36e9dffabc891cb2adf87\transformed\lifecycle-runtime-ktx-release\res
+com.example.feature.feed-ui-util-release-37 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\58ba17c746aa20d02edfea459943a754\transformed\ui-util-release\res
+com.example.feature.feed-emoji2-1.3.0-38 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\5bad819fc139fc96dcc32d6709572fb8\transformed\emoji2-1.3.0\res
+com.example.feature.feed-foundation-release-39 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\613a2abe360c19d13f7867b13e33af30\transformed\foundation-release\res
+com.example.feature.feed-lifecycle-process-2.8.7-40 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\61f1f5a3bcdd5c79f128627423958cd2\transformed\lifecycle-process-2.8.7\res
+com.example.feature.feed-ui-text-release-41 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\64cef09cd7d206b007e2002a943d107c\transformed\ui-text-release\res
+com.example.feature.feed-material-ripple-release-42 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\6733cb1476ec853eae6228c4c1b2a834\transformed\material-ripple-release\res
+com.example.feature.feed-lifecycle-livedata-ktx-2.8.7-43 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\85f355a44148e9da215ffcb00c28d460\transformed\lifecycle-livedata-ktx-2.8.7\res
+com.example.feature.feed-runtime-release-44 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\883540fdfa9856f7c716dbab2ab487cb\transformed\runtime-release\res
+com.example.feature.feed-animation-release-45 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\8be3506432964d833cac0d2aa350a4ec\transformed\animation-release\res
+com.example.feature.feed-ui-release-46 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\903caf412d67cab2fe57142820f7eae7\transformed\ui-release\res
+com.example.feature.feed-core-1.13.1-47 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\9a4a8cb9ded8e5414fffba35857cf869\transformed\core-1.13.1\res
+com.example.feature.feed-ui-tooling-preview-release-48 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\9e60eceae071749b5214896106eb513b\transformed\ui-tooling-preview-release\res
+com.example.feature.feed-material-icons-core-release-49 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\9f39453d0bd160e494dad03d2836b573\transformed\material-icons-core-release\res
+com.example.feature.feed-activity-compose-1.8.2-50 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\a0d33aaa95b01525adecd3cd12cf5ad4\transformed\activity-compose-1.8.2\res
+com.example.feature.feed-ui-unit-release-51 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\a2475c2aa1a27b69b6f3af03b3f39bef\transformed\ui-unit-release\res
+com.example.feature.feed-animation-core-release-52 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\a257ead8abb9b5359ae48799b493bd73\transformed\animation-core-release\res
+com.example.feature.feed-annotation-experimental-1.4.1-53 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\a374adfda0c312c81c48986aa162bd7b\transformed\annotation-experimental-1.4.1\res
+com.example.feature.feed-lifecycle-viewmodel-savedstate-2.8.7-54 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\a63bdda64b07595754d76aca653b8e21\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.feature.feed-coil-base-2.5.0-55 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\aa5baf3fb02ed12dbcbdf8c23f00d40e\transformed\coil-base-2.5.0\res
+com.example.feature.feed-lifecycle-runtime-release-56 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\aa65c964d451500d98da2dc2f5cc0ad5\transformed\lifecycle-runtime-release\res
+com.example.feature.feed-foundation-layout-release-57 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\c06a930a36da741878bc2bc6745db762\transformed\foundation-layout-release\res
+com.example.feature.feed-navigation-common-ktx-2.8.3-58 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\c1fcf6e9e349ba67534dbf8a0599c4fe\transformed\navigation-common-ktx-2.8.3\res
+com.example.feature.feed-profileinstaller-1.3.1-59 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\cdf23f38dc2065e918b44f4b15bf54c6\transformed\profileinstaller-1.3.1\res
+com.example.feature.feed-lifecycle-viewmodel-release-60 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\cf353d922fffa795bba577a15b340417\transformed\lifecycle-viewmodel-release\res
+com.example.feature.feed-navigation-runtime-ktx-2.8.3-61 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\dc646641c18917315f295c6f4af58165\transformed\navigation-runtime-ktx-2.8.3\res
+com.example.feature.feed-paging-runtime-3.2.1-62 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\e67952641870c8d34fc50c8f398081d6\transformed\paging-runtime-3.2.1\res
+com.example.feature.feed-savedstate-ktx-1.2.1-63 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\edc8c479fd9da4e2f29546b8fea7d4dd\transformed\savedstate-ktx-1.2.1\res
+com.example.feature.feed-savedstate-1.2.1-64 C:\Users\HP OMEN\.gradle\caches\8.9\transforms\f34484dc4d5c1785df9f6a8d8e93382b\transformed\savedstate-1.2.1\res

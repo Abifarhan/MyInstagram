@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.feature.auth-release-6:/xml/image_share_filepaths.xml",
+        "source": "com.example.feature.auth-browser-1.4.0-10:/xml/image_share_filepaths.xml"
+    }
+]

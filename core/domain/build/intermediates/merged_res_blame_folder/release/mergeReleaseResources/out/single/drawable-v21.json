@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.core.domain-release-4:/drawable-v21/notification_action_background.xml",
+        "source": "com.example.core.domain-core-1.13.1-22:/drawable-v21/notification_action_background.xml"
+    }
+]
