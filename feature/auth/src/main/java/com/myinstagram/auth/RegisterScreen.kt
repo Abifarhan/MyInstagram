@@ -94,6 +94,10 @@ fun RegisterScreen(viewModel: AuthViewModel, onRegisterSuccess: () -> Unit, onNa
                     color = MaterialTheme.colorScheme.error,
                     style = MaterialTheme.typography.bodyMedium
                 )
+                // Log error to Logcat
+                LaunchedEffect(it) {
+                    android.util.Log.e("RegisterScreen", "Error: $it")
+                }
             }
         }
     }

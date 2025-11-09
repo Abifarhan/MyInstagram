@@ -1,3 +1,6 @@
+// build.gradle.kts for core:data module
+// This file configures plugins, Android settings, and dependencies for the data layer.
+// Includes libraries for DI, networking, database, paging, work manager, and testing.
 plugins {
     id("com.android.library")
     id("org.jetbrains.kotlin.android")

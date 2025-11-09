@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest1565496151457326041.xml:2:13-83
-INJECTED from C:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest1565496151457326041.xml:2:13-83
+ADDED from D:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest15911301573276457198.xml:2:13-83
+INJECTED from D:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest15911301573276457198.xml:2:13-83
 	package
-		INJECTED from C:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest1565496151457326041.xml
+		INJECTED from D:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest15911301573276457198.xml
 	xmlns:android
-		ADDED from C:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest1565496151457326041.xml:2:23-81
+		ADDED from D:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest15911301573276457198.xml:2:23-81
 uses-sdk
-INJECTED from C:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest1565496151457326041.xml reason: use-sdk injection requested
-INJECTED from C:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest1565496151457326041.xml
-INJECTED from C:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest1565496151457326041.xml
+INJECTED from D:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest15911301573276457198.xml reason: use-sdk injection requested
+INJECTED from D:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest15911301573276457198.xml
+INJECTED from D:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest15911301573276457198.xml
 	android:targetSdkVersion
-		INJECTED from C:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest1565496151457326041.xml
+		INJECTED from D:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest15911301573276457198.xml
 	android:minSdkVersion
-		INJECTED from C:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest1565496151457326041.xml
+		INJECTED from D:\MyInstagram\feature\profile\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest15911301573276457198.xml
